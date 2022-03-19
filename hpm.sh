@@ -25,7 +25,7 @@ echo '<!DOCTYPE html>
 	<title>'$webName'</title>
 </head>
 <body>
-	this is an programm-crated website <a href="#">learn more</a>
+	this is an programm-crated website <a href="https://github.com/talal12bfk/html-project-maker-cli">learn more</a>
 </body>
 </html>' >> $proName/index.html
 
