@@ -20,3 +20,5 @@ mv html-project-maker-cli/hpm.sh /bin/hpm
 
 # Done
 Now you can execute it in the Terminal as:
+
+$ hpm
