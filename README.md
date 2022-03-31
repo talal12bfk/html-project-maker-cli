@@ -1,5 +1,7 @@
 # html-project-maker-cli
 
+easy tool/bash script to create an folder with a index.html, style.css, script.js and a media folder
+
 # Installation
 
 1- Clone the repo
